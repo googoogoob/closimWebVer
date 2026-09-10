@@ -2,7 +2,7 @@ const cacheName = "sirCheetoDust-FieldSim-2.1";
 const chunkedFiles = [
   {
     file: "Build/New folder.data",
-    parts: Array.from({ length: 20 }, (_, index) => `Build/New folder.data.part-${String(index).padStart(3, "0")}`)
+    parts: Array.from({ length: 28 }, (_, index) => `Build/New folder.data.part-${String(index).padStart(3, "0")}`)
   },
   {
     file: "Build/New folder.wasm",

@@ -1,7 +1,7 @@
 (function () {
   var originalFetch = window.fetch.bind(window);
   var chunkedFiles = {
-    "Build/New folder.data": 20,
+    "Build/New folder.data": 28,
     "Build/New folder.wasm": 2
   };
 
